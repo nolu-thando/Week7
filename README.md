@@ -6,3 +6,4 @@ Task 2, consists of everything required in task 2
 
 Task 3 file, are answers to task 3.
 
+![App Preview](screenshot.png)
